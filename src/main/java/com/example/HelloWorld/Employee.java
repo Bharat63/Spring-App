@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Employee {
-    private String name = "Bhupesh";
+    private String name = "Bharat";
     private int id = 432;
 
     private final Department department;
